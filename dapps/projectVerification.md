@@ -47,7 +47,8 @@ Here is the information you will need to provide in the application:
 14. Confirm “Yes”: We understand our donation data will be reviewed, and if it seems like in any way we are abusing the system, our donors will not receive GIVbacks, and we will lose our verified status.
 15. Our goal is to ensure there is no fraudulent use of GIVbacks. We will need to know what reputation is at stake for you and/or your project if you were to be found participating in malicious activity. *Please provide links to proof of reputation if available.
 
-If you are a project owner who would like to apply to receive a `Verified` badge, encourage more Givers and also give back to those who have helped you reach your goals, please [fill out this form](https://giveth.typeform.com/verification).
+If you are a project owner who would like to apply to receive a `Verified` badge, encourage more Givers and also give back to those who have helped you reach your goals, please go to your project page and apply.
+![image](https://user-images.githubusercontent.com/100084867/188615843-0494f0a4-10f3-4da4-a73b-fcec114b7288.png)
 
 ## Disqualifying Factors for the GIVbacks Program
 
